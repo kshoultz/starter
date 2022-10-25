@@ -1,2 +1,5 @@
 # starter
-Site to hold examples for a new project.
+
+## Intent of this project
+
+Site to hold examples for a new project or snippets for others.
